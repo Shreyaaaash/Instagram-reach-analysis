@@ -3,7 +3,7 @@
 ## Project Overview
 
 Not everyone is always available on social media all the time. Some people limit the use of social media during festive seasons, while some avoid social media during their examinations. 
-So, as Content creators, we need to decide when to make the most valuable piece of content and when not.
+So Content creators need to decide when to make the most valuable piece of content and when not.
 
 ### Why Instagram Reach Forecasting?
 
@@ -26,7 +26,7 @@ So, as Content creators, we need to decide when to make the most valuable piece 
 ### Installation
 
 1. Clone the repository:https://github.com/Shreyaaaash/Instagram-reach-analysis.git
-2. Install all the required packages liek plotly, pandas
+2. Install all the required packages like plotly, pandas
 3. Data set can be downloaded using the following link: [dataset](https://statso.io/social-media-reach-forecasting-case-study/)
 
 ## Methodology

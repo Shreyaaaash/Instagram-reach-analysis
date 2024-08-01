@@ -27,6 +27,7 @@ So, as Content creators, we need to decide when to make the most valuable piece 
 
 1. Clone the repository:https://github.com/Shreyaaaash/Instagram-reach-analysis.git
 2. Install all the required packages liek plotly, pandas
+3. Data set can be downloaded using the following link: [dataset](https://statso.io/social-media-reach-forecasting-case-study/)
 
 ## Methodology
 
@@ -57,3 +58,6 @@ Contributions to improve the project are welcome. Please follow these steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ![image](https://github.com/user-attachments/assets/2263efb7-50b0-4f54-acee-133b2179b8d6)
+
+![image](https://github.com/user-attachments/assets/41668491-af87-4771-98f7-5fc9b6018eb4)
+
